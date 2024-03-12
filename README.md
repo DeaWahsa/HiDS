@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cancer Drug Sensitivity prediction from routine histology images
 
 ## Summary
@@ -28,3 +29,6 @@ Step6: Training the Graph Neural Network by running
 
 ## License
 The source code of SlideGraph<sup>∞</sup> is released under MIT-CC-Non-Commercial license.
+=======
+# HiDS
+>>>>>>> 22a78dd6bd5ad214cddffadd425bd18904d61128
